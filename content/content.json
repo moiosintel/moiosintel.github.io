@@ -66,6 +66,22 @@
    "pillar": "home"
   },
   {
+   "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+   "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-19 pandemic.",
+   "url": "/posts/former-fauci-adviser-dr-david-morens-pleads-guilty-to-concea-9cbc0a.html",
+   "date": "2026-08-23",
+   "source": "NPR Health",
+   "pillar": "body"
+  },
+  {
+   "title": "Google Will Soon Let You Tell It What Stories You Want to See in Your Discovery Feed",
+   "summary": "Natural language prompts are coming to the Google app's Discovery feed.",
+   "url": "/posts/google-will-soon-let-you-tell-it-what-stories-you-want-to-se-8117ad.html",
+   "date": "2026-08-23",
+   "source": "Lifehacker",
+   "pillar": "life"
+  },
+  {
    "title": "Have You Experienced \u201cRaise Shaming\u201d? Here\u2019s What It Can Look Like at Work",
    "summary": "Have You Experienced \u201cRaise Shaming\u201d? Here\u2019s What It Can Look Like at Work\u00a0\u00a0Real Simple",
    "url": "/posts/have-you-experienced-raise-shaming-here-s-what-it-can-look-l-121a6b.html",
@@ -144,6 +160,14 @@
    "date": "2026-08-23",
    "source": null,
    "pillar": "body"
+  },
+  {
+   "title": "Ready to Upgrade? T-Mobile Has Samsung Galaxy Deals for Every Type of User",
+   "summary": "Ready to Upgrade? T-Mobile Has Samsung Galaxy Deals for Every Type of User\u00a0\u00a0Kiplinger",
+   "url": "/posts/ready-to-upgrade-t-mobile-has-samsung-galaxy-deals-for-every-2fbaaa.html",
+   "date": "2026-08-23",
+   "source": "Google News travel deals",
+   "pillar": "life"
   },
   {
    "title": "Salary Transparency in Singapore: Workers Push for Pay Clarity as Disclosure Remains Voluntary - Forward EPS Estimate",
@@ -226,28 +250,28 @@
    "pillar": "home"
   },
   {
-   "title": "Ready to Upgrade? T-Mobile Has Samsung Galaxy Deals for Every Type of User",
-   "summary": "Ready to Upgrade? T-Mobile Has Samsung Galaxy Deals for Every Type of User\u00a0\u00a0Kiplinger",
-   "url": "/posts/ready-to-upgrade-t-mobile-has-samsung-galaxy-deals-for-every-2fbaaa.html",
+   "title": "5 Apple Home-Compatible Devices That Can Come In Handy For Homeowners",
+   "summary": "5 Apple Home-Compatible Devices That Can Come In Handy For Homeowners\u00a0\u00a0bgr.com",
+   "url": "/posts/5-apple-home-compatible-devices-that-can-come-in-handy-for-h-65a65b.html",
    "date": "2026-08-23",
-   "source": "Google News travel deals",
-   "pillar": "life"
+   "source": "Google News smart home",
+   "pillar": "tech"
   },
   {
-   "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-   "summary": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-19 pandemic.",
-   "url": "/posts/former-fauci-adviser-dr-david-morens-pleads-guilty-to-concea-9cbc0a.html",
+   "title": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test",
+   "summary": "Nvidia is due to report earnings on Wednesday, and \u201ca very broad universe of companies\u201d is tied to the themes that the chip giant represents.",
+   "url": "/posts/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-mar-184b12.html",
    "date": "2026-08-23",
-   "source": "NPR Health",
-   "pillar": "body"
+   "source": "MarketWatch Top Stories",
+   "pillar": "money"
   },
   {
-   "title": "Google Will Soon Let You Tell It What Stories You Want to See in Your Discovery Feed",
-   "summary": "Natural language prompts are coming to the Google app's Discovery feed.",
-   "url": "/posts/google-will-soon-let-you-tell-it-what-stories-you-want-to-se-8117ad.html",
+   "title": "Social Security's future is shaky. Trump prefers this country's system",
+   "summary": "Social Security's future is shaky. Trump prefers this country's system\u00a0\u00a0USA Today",
+   "url": "/posts/social-security-s-future-is-shaky-trump-prefers-this-country-603adc.html",
    "date": "2026-08-23",
-   "source": "Lifehacker",
-   "pillar": "life"
+   "source": "Google News retirement",
+   "pillar": "money"
   }
  ],
  "tools": [
