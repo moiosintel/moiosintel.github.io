@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Field Notes &amp; Small Utilities</title>
+<meta name="description" content="Independent notes on tools, calculations, and everyday research. Updated regularly.">
+<link rel="canonical" href="https://moiosintel.github.io/">
+<style>
+:root{--ink:#1a1f2e;--mut:#5b6472;--line:#e4e7ec;--bg:#fafbfc;--card:#fff;--acc:#0f6b5c}
+*{box-sizing:border-box}body{margin:0;font:16px/1.65 Georgia,serif;color:var(--ink);background:var(--bg)}
+.wrap{max-width:720px;margin:0 auto;padding:48px 20px}
+header h1{font-size:28px;margin:0 0 6px}header p{color:var(--mut);margin:0 0 36px}
+section{margin-bottom:40px}h2{font-size:19px;border-bottom:1px solid var(--line);padding-bottom:8px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px 18px;margin-bottom:14px}
+.card h3{margin:0 0 4px;font-size:17px}.card h3 a{color:var(--acc);text-decoration:none}
+.card p{margin:0;color:var(--mut);font-size:14.5px}.meta{font-size:12.5px;color:#8a93a3;margin-top:8px}
+footer{color:var(--mut);font-size:13px;border-top:1px solid var(--line);padding-top:18px}
+</style>
+</head>
+<body><div class="wrap">
+<header><h1>Field Notes &amp; Small Utilities</h1>
+<p>Practical write-ups on money, home, health, and the tools that make decisions easier.</p></header>
+<section id="notes"><h2>Latest notes</h2><div id="note-list"></div></section>
+<section id="tools"><h2>Utilities worth bookmarking</h2><div id="tool-list"></div></section>
+<footer>Published independently. Content is informational, not professional advice.</footer>
+</div>
+<script>
+fetch('content/content.json').then(r=>r.json()).then(d=>{
+const n=document.getElementById('note-list');(d.notes||[]).slice(0,8).forEach(a=>{
+n.insertAdjacentHTML('beforeend',`<article class="card"><h3><a href="${a.url}">${a.title}</a></h3><p>${a.summary}</p><div class="meta">${a.date}${a.source?' · via '+a.source:''}</div></article>`)});
+const t=document.getElementById('tool-list');(d.tools||[]).slice(0,6).forEach(x=>{
+t.insertAdjacentHTML('beforeend',`<article class="card"><h3><a href="${x.url}" rel="nofollow noopener">${x.name}</a></h3><p>${x.desc}</p></article>`)})});
+</script>
+</body></html>
