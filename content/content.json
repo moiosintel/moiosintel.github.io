@@ -1,0 +1,10 @@
+{
+  "updated": "2026-08-23",
+  "notes": [
+    {"title": "How compound interest really behaves over 30 years", "summary": "A plain-English walkthrough with worked tables and the assumptions most calculators hide.", "url": "/posts/compound-interest-notes.html", "date": "2026-08-23", "source": null},
+    {"title": "Heat pump vs furnace: real seasonal cost math", "summary": "Side-by-side seasonal arithmetic using public EIA price data and realistic COP ranges.", "url": "/posts/heat-pump-math.html", "date": "2026-08-21", "source": null}
+  ],
+  "tools": [
+    {"name": "Loan amortization worksheet", "desc": "Free printable + spreadsheet amortization schedule.", "url": "https://www.consumerfinance.gov/owning-a-home/loan-options/", "note": "external"}
+  ]
+}
