@@ -1,10 +1,46 @@
 {
-  "updated": "2026-08-23",
-  "notes": [
-    {"title": "How compound interest really behaves over 30 years", "summary": "A plain-English walkthrough with worked tables and the assumptions most calculators hide.", "url": "/posts/compound-interest-notes.html", "date": "2026-08-23", "source": null},
-    {"title": "Heat pump vs furnace: real seasonal cost math", "summary": "Side-by-side seasonal arithmetic using public EIA price data and realistic COP ranges.", "url": "/posts/heat-pump-math.html", "date": "2026-08-21", "source": null}
-  ],
-  "tools": [
-    {"name": "Loan amortization worksheet", "desc": "Free printable + spreadsheet amortization schedule.", "url": "https://www.consumerfinance.gov/owning-a-home/loan-options/", "note": "external"}
-  ]
+ "updated": "2026-08-23",
+ "notes": [
+  {
+   "title": "Doodle generative compositions in your browser with Musical Spirograph",
+   "summary": "",
+   "url": "/posts/doodle-generative-compositions-in-your-browser-with-musical--d6d4d0.html",
+   "date": "2026-08-23"
+  },
+  {
+   "title": "Seven Emergency Features You Should Enable on Your Google Pixel",
+   "summary": "",
+   "url": "/posts/seven-emergency-features-you-should-enable-on-your-google-pi-8cb0e2.html",
+   "date": "2026-08-23"
+  },
+  {
+   "title": "Peppermint oil lowers blood pressure in just 20 days",
+   "summary": "",
+   "url": "/posts/peppermint-oil-lowers-blood-pressure-in-just-20-days-f32571.html",
+   "date": "2026-08-23"
+  },
+  {
+   "title": "Quitting alcohol may prime the brain for relapse",
+   "summary": "",
+   "url": "/posts/quitting-alcohol-may-prime-the-brain-for-relapse-9ee695.html",
+   "date": "2026-08-23"
+  }
+ ],
+ "tools": [
+  {
+   "name": "CFPB loan worksheet",
+   "desc": "Official printable + spreadsheet amortization schedule.",
+   "url": "https://www.consumerfinance.gov/owning-a-home/loan-options/"
+  },
+  {
+   "name": "BLS inflation tracker",
+   "desc": "CPI series viewer straight from the source data.",
+   "url": "https://data.bls.gov/timeseries/CUUR0000SA0"
+  },
+  {
+   "name": "NREL solar reference",
+   "desc": "Baseline irradiance and cost datasets.",
+   "url": "https://www.nrel.gov/solar/"
+  }
+ ]
 }
